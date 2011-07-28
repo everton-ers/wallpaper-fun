@@ -1,0 +1,15 @@
+WALLPAPER_FUN v.0.2 - 2006
+(Patrix, Bytecode e Kekis)
+
+Homepage: http://www.tconibo.org/wallpaper_fun/
+
+Download: http://www.tconibo.org/wallpaper_fun/wallpaper_fun.zip
+
+O que faz?
+
+O Wallpaper_Fun carrega automaticamente na inicialização do rWindows 
+um wallpaper pré-selecionado contra a vontade do usuário. Este wallpaper carregará sempre 
+que a máquina inicializar, mesmo que a(o) sacaneado(a) mude o wallpaper pela configuração 
+das propriedades na área de trabalho ou por outro meio qualquer.
+
+Mais informações, ler o arquivo readme.html
